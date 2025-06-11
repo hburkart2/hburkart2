@@ -30,17 +30,3 @@
 
 ---
 
-### 🔭 What I'm Currently Working On
-
-* *\[Example: NextFileManager - File Server built on React.js, FastAPI with optimization for concurrency and caching. Supports Tokens, OIDC, LDAP authentication, Users, Groups, Permissions.]*
-* *\[Your Current Project 2 - Briefly describe what you're building or researching.]*
-
----
-
-### 📂 What I'm Currently Learning
-
-- **Django**
-- **PyTorch**
-- **Tensorflow**
-
----
