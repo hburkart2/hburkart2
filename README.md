@@ -3,7 +3,7 @@
 ---
 
 ### 🌱 About Me
-🎓 Computer Science & Engineering Student diving deep into AI/ML
+🎓 Computer Science & Engineering Student studying AI/ML
 
 📍 Based in Iowa City, IA
 
